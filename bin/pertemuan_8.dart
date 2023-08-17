@@ -1,4 +1,5 @@
-import 'dart:io';
+// Pertemuan 8 - Inheritance / Turunan + Keyword as & is
+// import 'dart:io';
 
 import 'package:my_first_dart_console/hero.dart';
 import 'package:my_first_dart_console/monster.dart';
